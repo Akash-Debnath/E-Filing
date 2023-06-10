@@ -22,10 +22,5 @@ Download Source Code "E-Filing System"
 **LOGIN DETAILS** 
 
 Admin
-user: admin@admin.com
-pass: admin123
-
-create your own user
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+user: akash@gmail.com
+pass: 12345678
