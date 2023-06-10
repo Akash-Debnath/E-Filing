@@ -4,7 +4,7 @@ Download Source Code "E-Filing System"
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"document_sharing"
+3. Named as "efiling"
 
 4. Download the zip file/ download winrar
 
@@ -16,7 +16,7 @@ Download Source Code "E-Filing System"
 
 8. Create a database with name odss_db
 
-6. Import odss_db.sql file(given inside the zip package in SQL file folder)
+6. Import odss_db.sql file (given inside the zip package in Database folder)
 
 7.Run the script http:/document_sharing
 **LOGIN DETAILS** 
