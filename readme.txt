@@ -8,7 +8,7 @@ Download Source Code "E-Filing System"
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "document_sharing" folder
+5. Extract the file and copy "efiling" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
